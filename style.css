@@ -16,7 +16,8 @@ button {
     margin: 5px;
     border: 1px solid transparent!important;
     border-radius: 5px;
-    width: 40px;
+    width: 55px;
+    height: 35px;
 }
 
 #ctx {
