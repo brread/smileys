@@ -36,12 +36,12 @@ button {
     padding-bottom: 20px;
 }
 
-.btn:focus {
+button:focus {
   outline: none;
   box-shadow: none;
 }
 
-.btn:active:focus {
+button:active:focus {
   outline: none;
   box-shadow: none;
 }
