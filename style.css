@@ -35,3 +35,13 @@ button {
     padding-right: 20px;
     padding-bottom: 20px;
 }
+
+.btn:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.btn:active:focus {
+  outline: none;
+  box-shadow: none;
+}
