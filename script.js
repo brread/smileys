@@ -51,6 +51,7 @@ window.onload = () => {
             c2 = true;
             var clicker2 = document.createElement('button');
             clicker2.innerHTML = '&#128513';
+            clicker2.type = "button";
             clicker2.addEventListener('click',function () {
                 c2f();
             })
@@ -61,6 +62,7 @@ window.onload = () => {
             c3 = true;
             var clicker3 = document.createElement('button');
             clicker3.innerHTML = '&#128517';
+            clicker3.type = "button";
             clicker3.addEventListener('click',function () {
                 c3f();
             })
@@ -71,6 +73,7 @@ window.onload = () => {
             c4 = true;
             var clicker4 = document.createElement('button');
             clicker4.innerHTML = '&#128514';
+            clicker4.type = "button";
             clicker4.addEventListener('click',function () {
                 c4f();
             })
@@ -81,6 +84,7 @@ window.onload = () => {
             c5 = true;
             var clicker5 = document.createElement('button');
             clicker5.innerHTML = '&#129315';
+            clicker5.type = "button";
             clicker5.addEventListener('click',function () {
                 c5f();
             })
@@ -91,6 +95,7 @@ window.onload = () => {
             c6 = true;
             var clicker6 = document.createElement('button');
             clicker6.innerHTML = '&#129322';
+            clicker6.type = "button";
             clicker6.addEventListener('click',function () {
                 c6f();
             })
@@ -101,6 +106,7 @@ window.onload = () => {
             c7 = true;
             var clicker7 = document.createElement('button');
             clicker7.innerHTML = '&#128541';
+            clicker7.type = "button";
             clicker7.addEventListener('click',function () {
                 c7f();
             })
@@ -111,6 +117,7 @@ window.onload = () => {
             c8 = true;
             var clicker8 = document.createElement('button');
             clicker8.innerHTML = '&#128536';
+            clicker8.type = "button";
             clicker8.addEventListener('click',function () {
                 c8f();
             })
@@ -121,6 +128,7 @@ window.onload = () => {
             c9 = true;
             var clicker9 = document.createElement('button');
             clicker9.innerHTML = '&#128525';
+            clicker9.type = "button";
             clicker9.addEventListener('click',function () {
                 c9f();
             })
