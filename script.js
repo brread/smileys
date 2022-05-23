@@ -211,3 +211,7 @@ function formatCount(count, withAbbr = false, decimals = 1) {
     }
     return result;
 }
+
+window.addEventListener('keydown', function(event) {
+    if (event.key == "Enter") event.preventDefault();
+});
